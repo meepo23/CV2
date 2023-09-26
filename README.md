@@ -53,22 +53,3 @@
   </div>
 </body>
 </html>
- body {
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      text-align: center;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .section h2 {
-      margin-bottom: 10px;
-    }
-    .section p {
-      margin: 5px 0;
-    }
-    .section ul {
-      margin: 5px 0;
-      padding-left: 20px;
-    }
